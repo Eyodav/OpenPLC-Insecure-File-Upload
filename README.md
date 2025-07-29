@@ -44,7 +44,7 @@ I discovered a vulnerability in the OpenPLC Runtime webserver (released version:
 ### Using "All Files" to bypass image filter
 ![file.png](./file.png)
 
-### Uploaded XSS executed from `/static/`
+### Uploaded file executed from `/static/`
 ![poc.png](./poc.png)
 
 ---
@@ -57,7 +57,7 @@ I discovered a vulnerability in the OpenPLC Runtime webserver (released version:
 - **Unauthenticated access demonstration**  
    [`unauthenticated.mp4`](https://github.com/user-attachments/assets/9133f961-1aaf-4223-a3e9-26311774e0ad)
 
-- **CSRF Potential Abuse**  
+- **CSRF PoC**  
    [`poc csrf.mp4`](https://github.com/user-attachments/assets/36960ecd-b62a-4e76-b381-542ad424e726)
 
 ---
