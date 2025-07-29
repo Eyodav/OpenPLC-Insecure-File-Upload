@@ -1,5 +1,5 @@
 
-# 🔥 Insecure File Upload in OpenPLC Runtime Webserver (CVE-2025-XXXX)
+# 🔥 Insecure File Upload in OpenPLC Runtime Webserver
 
 ## 📌 Summary
 
