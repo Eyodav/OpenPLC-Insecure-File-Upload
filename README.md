@@ -60,22 +60,6 @@ I discovered a vulnerability in the OpenPLC Runtime webserver (released version:
 - **CSRF Potential Abuse**  
    [`poc csrf.mp4`](https://github.com/user-attachments/assets/36960ecd-b62a-4e76-b381-542ad424e726)
 
-
-
-
----
-
-## 👤 User Management Abuse
-
-### Users before attack
-![Users.png](./Users.png)
-
-### Adding a file via profile picture field
-![choose file.png](./choose%20file.png)
-
-### Injected user saved with arbitrary name
-![Users.png](./Users.png)
-
 ---
 
 ## 📤 Exploit Request Example with Burp Suite Repeater
