@@ -52,13 +52,16 @@ I discovered a vulnerability in the OpenPLC Runtime webserver (released version:
 ## 🎞️ Video PoCs
 
 - **Basic PoC demo**  
-  📽️ [`poc de base.mp4`](./poc%20de%20base.mp4)
+   [`poc de base.mp4`](https://github.com/user-attachments/assets/03b940c0-db32-49ec-ac9b-adebc3797e25)
 
 - **Unauthenticated access demonstration**  
-  ! [`unauthenticated.mp4`](https://github.com/user-attachments/assets/9133f961-1aaf-4223-a3e9-26311774e0ad)
+   [`unauthenticated.mp4`](https://github.com/user-attachments/assets/9133f961-1aaf-4223-a3e9-26311774e0ad)
 
 - **CSRF Potential Abuse**  
-  📽️ [`poc csrf.mp4`](./poc%20csrf.mp4)
+   [`poc csrf.mp4`](https://github.com/user-attachments/assets/36960ecd-b62a-4e76-b381-542ad424e726)
+
+
+
 
 ---
 
