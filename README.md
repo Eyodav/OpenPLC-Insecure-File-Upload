@@ -17,10 +17,10 @@ I discovered a vulnerability in the OpenPLC Runtime webserver (released version:
 ## ⚠️ Impact
 
 - Arbitrary file upload with insufficient MIME and extension validation
-- Stored XSS / Client-side code execution
+- Stored XSS
 - Malicious content hosting
 - Unauthenticated access to uploaded files
-- Potential pivot for CSRF or phishing attacks
+- CSRF 
 
 ---
 
