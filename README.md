@@ -1,5 +1,6 @@
  
-# 🔥 CVE-2025-54962-Insecure File Upload in OpenPLC Runtime Webserver
+# 🔥 CVE-2025-54962 — Insecure File Upload in OpenPLC Runtime Webserver
+# (OpenPLC Runtime ≤ 2024-12-31 — Stored XSS, CSRF, Unauthenticated Access)
 
 ## 📌 Summary
 
